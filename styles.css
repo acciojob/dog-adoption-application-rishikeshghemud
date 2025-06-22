@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+
+main {
+	text-align: center
+}
+
+form {
+	/* border: 1px solid black; */
+	padding: 5px;
+}
+
+#name, #phone, #address, #checkbox, #multiSelect {
+	margin-bottom: 15px;
+	
+}
